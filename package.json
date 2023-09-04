@@ -1,8 +1,8 @@
 {
-    "name": "com.epohless.hierarchyenhancer",
-    "version": "0.2.0",
-    "displayName": "Hierarchy Enhancer",
-    "description": "Enhance your hierarchy with customized tools!",
+    "name": "com.epohless.simplelogger",
+    "version": "1.0.0",
+    "displayName": "Simple Logger",
+    "description": "Easily debug your builds!",
     "unity": "2021.3",
     "unityRelease": "10f1",
     "author": {
