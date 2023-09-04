@@ -1,6 +1,6 @@
 {
     "name": "com.epohless.simplelogger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Simple Logger",
     "description": "Easily debug your builds!",
     "unity": "2021.3",

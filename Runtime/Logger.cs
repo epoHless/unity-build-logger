@@ -93,6 +93,9 @@ namespace epoHless.Logger
             
             var minusCapacityButtonRect = new Rect(325, 5, 25, 25);
             if (GUI.Button(minusCapacityButtonRect, "+")) { Entries += 5; }
+            
+            var clearLogButtonRect = new Rect(365, 5, 100, 25);
+            if (GUI.Button(clearLogButtonRect, "Clear Log")) { _logs.Clear(); }
 
             for (int i = _logs.Count - 1; i >= 0; i--)
             {
